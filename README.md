@@ -1,5 +1,7 @@
 # AI Agent Skills
 
+[![skills.sh](https://skills.sh/b/aungkyawphyoe/skills)](https://skills.sh/aungkyawphyoe/skills)
+
 A collection of skills for AI coding agents. Each skill lives in its own directory under `skills/` and is installed by symlinking it into your agent's skills directory so it's available across projects.
 
 Skills are self-contained, plain-markdown definitions — there is no build or test step.
