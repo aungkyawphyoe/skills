@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-marketplace-schema.json",
+  "name": "akp-skills",
+  "owner": { "name": "Aung Kyaw Phyoe" },
+  "plugins": [
+    {
+      "name": "akp-skills",
+      "source": "./",
+      "description": "A collection of AI agent skills, including architect-audit."
+    }
+  ]
+}
